@@ -31302,9 +31302,9 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-position-1 {
-  min-height: 84px;
-  width: 180px;
-  margin: 0 auto;
+  min-height: 56px;
+  width: 300px;
+  margin: 0;
 }
 
 .u-footer .u-text-1 {
@@ -31384,7 +31384,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-footer .u-position-1 {
     height: auto;
-    width: 180px;
+    width: 233px;
   }
 
   .u-footer .u-layout-cell-2 {
@@ -31457,8 +31457,8 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-position-1 {
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-footer .u-layout-cell-2 {

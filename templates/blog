@@ -78,7 +78,7 @@
               <h4 class="u-blog-control u-text u-text-1">
                 <a class="u-post-header-link" href="#"><!--blog_post_header_content-->Post 1 Headline<!--/blog_post_header_content--></a>
               </h4><!--/blog_post_header--><!--blog_post_image-->
-              <img alt="" class="u-blog-control u-image u-image-default u-image-1" src="images/1.jpeg"><!--/blog_post_image--><!--blog_post_content-->
+              <img alt="" class="u-blog-control u-image u-image-default u-image-1" src="images/3.jpeg"><!--/blog_post_image--><!--blog_post_content-->
               <div class="u-blog-control u-post-content u-text u-text-2"><!--blog_post_content_content-->Sample small text. Lorem ipsum dolor sit amet.<!--/blog_post_content_content--></div><!--/blog_post_content--><!--blog_post_readmore-->
               <a href="#" class="u-blog-control u-border-2 u-border-palette-1-base u-btn u-btn-rectangle u-button-style u-none u-btn-1"><!--blog_post_readmore_content-->Read More<!--/blog_post_readmore_content--></a><!--/blog_post_readmore-->
             </div>
@@ -88,7 +88,7 @@
               <h4 class="u-blog-control u-text u-text-3">
                 <a class="u-post-header-link" href="#"><!--blog_post_header_content-->Post 2 Headline<!--/blog_post_header_content--></a>
               </h4><!--/blog_post_header--><!--blog_post_image-->
-              <img alt="" class="u-blog-control u-image u-image-default u-image-2" src="images/2.jpeg"><!--/blog_post_image--><!--blog_post_content-->
+              <img alt="" class="u-blog-control u-image u-image-default u-image-2" src="images/4.jpeg"><!--/blog_post_image--><!--blog_post_content-->
               <div class="u-blog-control u-post-content u-text u-text-4"><!--blog_post_content_content-->Sample small text. Lorem ipsum dolor sit amet.<!--/blog_post_content_content--></div><!--/blog_post_content--><!--blog_post_readmore-->
               <a href="#" class="u-blog-control u-border-2 u-border-palette-1-base u-btn u-btn-rectangle u-button-style u-none u-btn-2"><!--blog_post_readmore_content-->Read More<!--/blog_post_readmore_content--></a><!--/blog_post_readmore-->
             </div>
@@ -98,7 +98,7 @@
               <h4 class="u-blog-control u-text u-text-5">
                 <a class="u-post-header-link" href="#"><!--blog_post_header_content-->Post 3 Headline<!--/blog_post_header_content--></a>
               </h4><!--/blog_post_header--><!--blog_post_image-->
-              <img alt="" class="u-blog-control u-image u-image-default u-image-3" src="images/3.jpeg"><!--/blog_post_image--><!--blog_post_content-->
+              <img alt="" class="u-blog-control u-image u-image-default u-image-3" src="images/5.jpeg"><!--/blog_post_image--><!--blog_post_content-->
               <div class="u-blog-control u-post-content u-text u-text-6"><!--blog_post_content_content-->Sample small text. Lorem ipsum dolor sit amet.<!--/blog_post_content_content--></div><!--/blog_post_content--><!--blog_post_readmore-->
               <a href="#" class="u-blog-control u-border-2 u-border-palette-1-base u-btn u-btn-rectangle u-button-style u-none u-btn-3"><!--blog_post_readmore_content-->Read More<!--/blog_post_readmore_content--></a><!--/blog_post_readmore-->
             </div>
@@ -142,7 +142,7 @@
             <div class="u-layout-row">
               <div class="u-align-center-sm u-align-center-xs u-align-left-md u-align-left-xl u-container-style u-layout-cell u-left-cell u-size-20 u-size-20-md u-layout-cell-1">
                 <div class="u-container-layout u-valign-middle u-container-layout-1"><!--position-->
-                  <div data-position="" class="u-align-center-sm u-align-center-xs u-position u-position-1"><!--block-->
+                  <div data-position="" class="u-position u-position-1"><!--block-->
                     <div class="u-block">
                       <div class="u-block-container u-clearfix"><!--block_header-->
                         <h5 class="u-block-header u-text u-text-1"><!--block_header_content--><!--/block_header_content--></h5><!--/block_header--><!--block_content-->
@@ -154,10 +154,11 @@
                 </div>
               </div>
               <div class="u-align-center-sm u-align-right-md u-container-style u-layout-cell u-size-20 u-size-20-md u-layout-cell-2">
-                <div class="u-container-layout u-valign-middle u-container-layout-2">
+                <div class="u-container-layout u-container-layout-2">
                   <a href="https://nicepage.com/landing-page" class="u-image u-logo u-image-1" data-image-width="1080" data-image-height="1080" title="Homepage">
                     <img src="images/BlackWhiteIcon.png" class="u-logo-image u-logo-image-1" data-image-width="105">
                   </a>
+                  <h4 class="u-text u-text-default u-text-3">1.0w71</h4>
                 </div>
               </div>
               <div class="u-align-center-sm u-align-center-xs u-align-left-md u-align-right-lg u-align-right-xl u-container-style u-layout-cell u-right-cell u-size-20 u-size-20-md u-layout-cell-3">

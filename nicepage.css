@@ -31455,7 +31455,6 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-footer .u-position-1 {
   min-height: 56px;
-  height: auto;
   width: 300px;
   margin: 0;
 }
@@ -31538,6 +31537,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-position-1 {
+    height: auto;
     width: 233px;
   }
 

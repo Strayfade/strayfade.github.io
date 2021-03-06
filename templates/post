@@ -16,7 +16,6 @@
     <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i">
     
     
-    
     <script type="application/ld+json">{
 		"@context": "http://schema.org",
 		"@type": "Organization",
@@ -51,7 +50,8 @@
           </a>
         </div>
         <div class="u-custom-menu u-nav-container">
-          <ul class="u-nav u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-white u-text-hover-palette-2-base" href="https://discord.com/invite/YdDddFn" target="_blank" style="padding: 10px 20px;">Discord</a>
+          <ul class="u-nav u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-white u-text-hover-palette-2-base" href="Cyrillic.html" style="padding: 10px 20px;">Cyrillic</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-white u-text-hover-palette-2-base" href="https://discord.com/invite/YdDddFn" target="_blank" style="padding: 10px 20px;">Discord</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-white u-text-hover-palette-2-base" href="https://github.com/strayfade" target="_blank" style="padding: 10px 20px;">Github</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-white u-text-hover-palette-2-base" href="https://youtube.com/strayfade" target="_blank" style="padding: 10px 20px;">YouTube</a>
 </li></ul>
@@ -60,7 +60,8 @@
           <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
             <div class="u-sidenav-overflow">
               <div class="u-menu-close"></div>
-              <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="https://discord.com/invite/YdDddFn" target="_blank" style="padding: 10px 20px;">Discord</a>
+              <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Cyrillic.html" style="padding: 10px 20px;">Cyrillic</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="https://discord.com/invite/YdDddFn" target="_blank" style="padding: 10px 20px;">Discord</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="https://github.com/strayfade" target="_blank" style="padding: 10px 20px;">Github</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="https://youtube.com/strayfade" target="_blank" style="padding: 10px 20px;">YouTube</a>
 </li></ul>
@@ -68,7 +69,7 @@
           </div>
           <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
         </div>
-      </nav><div class="u-border-3 u-border-grey-dark-1 u-expanded-width u-line u-line-horizontal u-line-1"></div></header>
+      </nav><div class="u-border-3 u-border-grey-dark-1 u-expanded-width u-line u-line-horizontal u-line-1" data-animation-name="slideIn" data-animation-duration="1000" data-animation-delay="0" data-animation-direction="Left"></div></header>
     <section class="u-align-center u-clearfix u-section-1" id="sec-ea66">
       <div class="u-clearfix u-sheet u-valign-middle-md u-valign-middle-sm u-valign-middle-xs u-sheet-1"><!--post_details--><!--post_details_options_json--><!--{"source":""}--><!--/post_details_options_json--><!--blog_post-->
         <div class="u-container-style u-expanded-width u-post-details u-post-details-1">
@@ -87,7 +88,6 @@
         </div><!--/blog_post--><!--/post_details-->
       </div>
     </section>
-    
     
     
     <footer class="u-black u-clearfix u-footer" id="sec-4792"><div class="u-clearfix u-sheet u-sheet-1">
@@ -112,7 +112,7 @@
                   <a href="Homepage.html" data-page-id="678216359" class="u-image u-logo u-image-1" data-image-width="1080" data-image-height="1080" title="Homepage">
                     <img src="images/BlackWhiteIcon.png" class="u-logo-image u-logo-image-1" data-image-width="105">
                   </a>
-                  <h4 class="u-text u-text-default u-text-3">1.0w72</h4>
+                  <h4 class="u-text u-text-default u-text-3">1.0w97</h4>
                 </div>
               </div>
               <div class="u-align-center-sm u-align-center-xs u-align-left-md u-align-right-lg u-align-right-xl u-container-style u-layout-cell u-right-cell u-size-20 u-size-20-md u-layout-cell-3">

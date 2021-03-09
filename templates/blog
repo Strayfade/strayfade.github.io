@@ -79,7 +79,7 @@
               <h4 class="u-blog-control u-text u-text-1">
                 <a class="u-post-header-link" href="#"><!--blog_post_header_content-->Post 1 Headline<!--/blog_post_header_content--></a>
               </h4><!--/blog_post_header--><!--blog_post_image-->
-              <img alt="" class="u-blog-control u-image u-image-default u-image-1" src="images/3.jpeg"><!--/blog_post_image--><!--blog_post_content-->
+              <img alt="" class="u-blog-control u-image u-image-default u-image-1" src="images/1.jpeg"><!--/blog_post_image--><!--blog_post_content-->
               <div class="u-blog-control u-post-content u-text u-text-2"><!--blog_post_content_content-->Sample small text. Lorem ipsum dolor sit amet.<!--/blog_post_content_content--></div><!--/blog_post_content--><!--blog_post_readmore-->
               <a href="#" class="u-blog-control u-border-2 u-border-palette-1-base u-btn u-btn-rectangle u-button-style u-none u-btn-1"><!--blog_post_readmore_content-->Read More<!--/blog_post_readmore_content--></a><!--/blog_post_readmore-->
             </div>
@@ -89,7 +89,7 @@
               <h4 class="u-blog-control u-text u-text-3">
                 <a class="u-post-header-link" href="#"><!--blog_post_header_content-->Post 2 Headline<!--/blog_post_header_content--></a>
               </h4><!--/blog_post_header--><!--blog_post_image-->
-              <img alt="" class="u-blog-control u-image u-image-default u-image-2" src="images/4.jpeg"><!--/blog_post_image--><!--blog_post_content-->
+              <img alt="" class="u-blog-control u-image u-image-default u-image-2" src="images/2.jpeg"><!--/blog_post_image--><!--blog_post_content-->
               <div class="u-blog-control u-post-content u-text u-text-4"><!--blog_post_content_content-->Sample small text. Lorem ipsum dolor sit amet.<!--/blog_post_content_content--></div><!--/blog_post_content--><!--blog_post_readmore-->
               <a href="#" class="u-blog-control u-border-2 u-border-palette-1-base u-btn u-btn-rectangle u-button-style u-none u-btn-2"><!--blog_post_readmore_content-->Read More<!--/blog_post_readmore_content--></a><!--/blog_post_readmore-->
             </div>
@@ -99,7 +99,7 @@
               <h4 class="u-blog-control u-text u-text-5">
                 <a class="u-post-header-link" href="#"><!--blog_post_header_content-->Post 3 Headline<!--/blog_post_header_content--></a>
               </h4><!--/blog_post_header--><!--blog_post_image-->
-              <img alt="" class="u-blog-control u-image u-image-default u-image-3" src="images/5.jpeg"><!--/blog_post_image--><!--blog_post_content-->
+              <img alt="" class="u-blog-control u-image u-image-default u-image-3" src="images/3.jpeg"><!--/blog_post_image--><!--blog_post_content-->
               <div class="u-blog-control u-post-content u-text u-text-6"><!--blog_post_content_content-->Sample small text. Lorem ipsum dolor sit amet.<!--/blog_post_content_content--></div><!--/blog_post_content--><!--blog_post_readmore-->
               <a href="#" class="u-blog-control u-border-2 u-border-palette-1-base u-btn u-btn-rectangle u-button-style u-none u-btn-3"><!--blog_post_readmore_content-->Read More<!--/blog_post_readmore_content--></a><!--/blog_post_readmore-->
             </div>
@@ -136,7 +136,7 @@
     </section>
     
     
-    <footer class="u-black u-clearfix u-footer" id="sec-4792"><div class="u-clearfix u-sheet u-sheet-1">
+    <footer class="u-black u-clearfix u-footer" id="sec-4792"><div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
         <div class="u-clearfix u-expanded-width u-gutter-30 u-layout-wrap u-layout-wrap-1">
           <div class="u-gutter-0 u-layout">
             <div class="u-layout-row">
@@ -176,6 +176,10 @@
               </div>
             </div>
           </div>
+        </div>
+        <div class="u-align-left u-clearfix u-custom-html u-custom-html-1"><!-- Badge Code - Do Not Change The Code -->
+          <a class="hitCounter" href="https://visitorshitcounter.com/" target="_blank" title="Hit counter" data-name="970d5de40a5e9052a37337ed0ac45e4c|9|page|1|rgb(47, 47, 47);|#ffffff|small|s-hit">Hit Counter</a>
+          <script>document.write("<script type='text/javascript' src='https://visitorshitcounter.com/js/hitCounter.js?v="+Date.now()+"'><\/script>");</script><!-- Badge Code End Here -->
         </div>
       </div></footer>
   </body>
